@@ -1,0 +1,11 @@
+.body{
+    background-color: aqua;
+    font-size: medium;   
+}
+
+p{
+    background: fixed;
+    background-color: cadetblue;
+    text-align: justify;
+    padding: auto;
+}
